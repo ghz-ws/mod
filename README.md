@@ -1,2 +1,2 @@
-# mod
-Digital mod/demod scilab sim
+# Digital modulation/demodulation Scilab simulations
+
